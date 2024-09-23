@@ -5,6 +5,8 @@ I like cats and learning JAVA.
 
 ## Contact me
 Let's connect and talk about cats.
-I like beer too.
+I like beer too and chips.
+And Messi.
+
 
 
